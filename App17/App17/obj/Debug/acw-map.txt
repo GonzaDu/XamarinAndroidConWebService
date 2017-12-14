@@ -1,0 +1,8 @@
+App17.Activity1, App17;md5687bf694232e2ae4d41a65fccf1a8482.Activity1
+App17.Activity1, App17, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5687bf694232e2ae4d41a65fccf1a8482.Activity1
+App17.Activity1;md5687bf694232e2ae4d41a65fccf1a8482.Activity1
+app17.Activity1;md5687bf694232e2ae4d41a65fccf1a8482.Activity1
+App17.MainActivity, App17;md5687bf694232e2ae4d41a65fccf1a8482.MainActivity
+App17.MainActivity, App17, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5687bf694232e2ae4d41a65fccf1a8482.MainActivity
+App17.MainActivity;md5687bf694232e2ae4d41a65fccf1a8482.MainActivity
+app17.MainActivity;md5687bf694232e2ae4d41a65fccf1a8482.MainActivity
